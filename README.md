@@ -1,2 +1,2 @@
-# test-repo-My-first-project-on-github-from-unity
+# test-repo
 unity project
